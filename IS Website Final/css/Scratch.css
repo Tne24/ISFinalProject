@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(237, 186, 120);
+}
+
+li {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.alter-ego{
+    font-size: 30px;
+    font-style: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading{
+    font-size: 50px;
+    text-align: center;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 3px #555555;
+}
+
+.rightmenu{
+    font-size: 20px;
+    top: 150px;
+    right: 5px;
+    width: 200px;
+    bottom: 39px;
+    border-left: solid 1px #555555;
+    padding-left: 10px;
+    position: absolute;
+    color: rgb(73, 73, 73);
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    color: #000000;
+    text-align: center;
+    padding-top: 15px;
+    position:static;
+    border-top: solid 1px #000000;
+}
